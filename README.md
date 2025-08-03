@@ -1,13 +1,11 @@
-## Hi there 👋
+Hi there 👋
+🌟 Fullstack Developer & AI 🚀
 
-🌟 Fullstack Developer & AI Enthusiast 🚀
-Привет! Я создаю крутые приложения от фронтенда и бекенда до ботов, мини-игр и мобильных приложений, также экспериментирую с искусственным интеллектом 🤖. Люблю чистый код, нестандартные решения и брбр потопима.
-🛠 Технологии: TypeScript | C# | Next | Node.js | Python | Flutter | SQL | Docker | Databases | 
-
-💡 Интересы: Development | VideoGames | AI | Open Source
-
-📫 Связаться со мной: @hertzxq
-🌍 Если нужно создать классное прилоежние, то обращайтесь✨
+Hey! I build cool apps from frontend and backend to bots, mini-games, and mobile apps, while also experimenting with artificial intelligence 🤖. I love clean code, creative solutions, and diving deep into projects.
+🛠 Tech Stack: TypeScript | C# | Next | Node.js | Python | Flutter | SQL | Docker | Databases
+💡 Interests: Development | Video Games | AI | Open Source
+📫 Reach me: @hertzxq
+🌍 Need an awesome app? Hit me up! ✨
 #Fullstack #AI #WebDev #OpenSource #Code
 
 
