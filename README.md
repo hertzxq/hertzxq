@@ -1,12 +1,13 @@
-Hi there 👋<br />
-🌟 Fullstack Developer & AI 🚀<br />
+Hi there! 👋
+🎮 Unity Game Developer | 1+ Years of Experience<br />
+I specialize in Unity development, crafting engaging gameplay mechanics, optimizing performance, and bringing creative ideas to life. I also build full-stack apps, bots, and tools to support game development workflows. Passionate about clean code, problem-solving, and exploring new tech!<br />
 
-Hey! I build cool apps from frontend and backend to bots, mini-games, and mobile apps, while also experimenting with artificial intelligence 🤖. I love clean code, creative solutions, and diving deep into projects.<br />
-🛠 Tech Stack: TypeScript | C# | Next | Node.js | Python | Flutter | SQL | Docker | Databases<br />
-💡 Interests: Development | Video Games | AI | Open Source<br />
-📫 Reach me: @hertzxq<br />
-🌍 Need an awesome app? Hit me up! ✨<br />
-#Fullstack #AI #WebDev #OpenSource #Code<br />
+🛠 Tech Stack:<br />
+GameDev: Unity, C#, Shader Graph, AI (NavMesh, Behavior Trees)
+Web & Backend: TypeScript, Next.js, Node.js, Python, SQL, Docker
+Mobile: Flutter (for companion apps/tools)<br />
+💡 Interests: Game Development, AI in Games, Open Source, Tooling<br />
+📫 Reach me: @hertzxq
 
 
 # 💻 Tech Stack:
